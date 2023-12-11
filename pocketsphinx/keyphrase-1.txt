@@ -1,0 +1,14 @@
+initialize
+way point alpha
+way point bravo
+way point charlie
+way point delta
+way point echo
+takeoff
+land
+go to alpha
+go to bravo
+go to charlie
+go to delta
+go to echo
+self destruct
