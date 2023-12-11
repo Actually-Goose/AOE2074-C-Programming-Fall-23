@@ -76,7 +76,7 @@ int main(int argc, char *argv[]) {
      * Adds the key words that we want to spot in our speech
     */
     char name[10];
-    ps_add_kws(decoder, name, "keyphrase.txt");
+    ps_add_kws(decoder, name, "keyphrase-1.txt");
     ps_activate_search(decoder, name);
     
     bool intializeFlag = FALSE;
